@@ -1,15 +1,23 @@
 .navbar{
     display: block;
-    height: 5em;
-    width: max-width;
-    background-color: black;
+    height: 60px;
+    width: 89em;
+    background-color:rgb(165, 229, 233);
     position: fixed;
     margin:  1px;
-    width: 104em;
-    
 }
 .options{
     color: white;
     font-size: 30px;
     text-align: center;
+}
+.hero img{
+    width: 89em;
+    position: fixed;
+    top:61px;
+    height: 30em; 
+}
+.hero{
+    color: white;
+    font-size: large;
 }
