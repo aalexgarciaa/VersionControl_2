@@ -1,0 +1,15 @@
+.navbar{
+    display: block;
+    height: 5em;
+    width: max-width;
+    background-color: black;
+    position: fixed;
+    margin:  1px;
+    width: 104em;
+    
+}
+.options{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
