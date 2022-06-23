@@ -3,7 +3,7 @@
     height: 60px;
     width: 89em;
     background-color:rgb(165, 229, 233);
-    position: fixed;
+    position: relative;
     margin:  1px;
 }
 .options{
@@ -13,11 +13,7 @@
 }
 .hero img{
     width: 89em;
-    position: fixed;
+    position: absolute;
     top:61px;
     height: 30em; 
-}
-.hero{
-    color: white;
-    font-size: large;
 }
