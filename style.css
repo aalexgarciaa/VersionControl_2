@@ -17,3 +17,15 @@
     top:61px;
     height: 30em; 
 }
+.form{
+    
+    position: absolute;
+    top: 180px;
+    left: 200px;
+    margin: 0;
+    background-color: white;
+}
+.button{
+    position: relative;
+    left: 60px;
+}
